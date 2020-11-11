@@ -5,3 +5,19 @@ In this project I helped Louise, an upcoming play writer review and sort a large
 Below are some images of our findings:
 
 ![all_category_statistics](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/all_category_statistics.png)
+
+![category_outcomes](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/category_outcomes_theatre_statistics_us.png)
+
+![subcategory_outcomes](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/subcategoryoutcomes-onlyplays.png)
+
+![subcategory_statistics](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/Subcategory-Stats.png)
+
+![parent_category_statistics_us_theatre](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/pivot_table_parent_category_statistics_theatre_us.png)
+
+![outcomes_based_on_launch_date_all](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/Outcomes-Based-On-Launch-Date_all.png)
+
+![outcomes_based_on_launch_date_only_theatre_category](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/outcomesbasedonlaunchdate-onlytheatrecategory.png)
+
+![box_and_whisker_plot_gb_musicals](https://github.com/Eric0rtega/kickstarter-analysis/blob/main/box_whisker_plot_gb_musicals.png)
+
+From our analysis we discovered that plays in the theatre category launched in May had the highest success rate. Also those with a moderate budget, around $5,000 had a much higher success rate than those of over $10,000 budget.
